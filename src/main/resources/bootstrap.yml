@@ -1,0 +1,9 @@
+---
+spring:
+  application:
+    name: ArticleServer
+  cloud:
+    config: 
+      uri: http://config.responsible-nrg.com
+  profiles:
+    active: article   
