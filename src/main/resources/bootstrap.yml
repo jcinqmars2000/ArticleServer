@@ -6,4 +6,5 @@ spring:
     config: 
       uri: http://config.responsible-nrg.com
   profiles:
-    active: article   
+    active: article
+
